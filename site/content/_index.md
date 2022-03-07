@@ -1,7 +1,7 @@
 ---
 title: ""
 subtitle: 
-image: /img/header-jumbo.png.png
+image: /img/header-jumbo.png
 blurb:
     heading: Welcome to DevInfusions!
     text: "DevInfusions is combining cannabis culture and food culture, bringing brilliantly cooked meals to another level by infusing them with THC. Experience Thai, American, Mexican, Vietnamese, Moroccan and other cuisines while getting stoned."
