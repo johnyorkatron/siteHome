@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The Highest High Quality Dining"
+subtitle: Infusing fine dining with cannabis for the highest quality dining experience
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
