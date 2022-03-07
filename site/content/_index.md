@@ -1,13 +1,13 @@
 ---
-title: "The Highest High Quality Dining"
-subtitle: Infusing fine dining with cannabis for the highest quality dining experience
+title: ""
+subtitle: 
 image: /img/header-jumbo.png.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Welcome to DevInfusions!
+    text: "DevInfusions is combining cannabis culture and food culture, bringing brilliantly cooked meals to another level by infusing them with THC. Experience Thai, American, Mexican, Vietnamese, Moroccan and other cuisines while getting stoned."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "About DevInfusions"
+    text: "DevInfusions is the Hudson Valley's first and only catering company to combine fine dining and cannabis. DevInfusions aims to provide the highest high quality dining experience, featuring cuisines from all around the world all infused with top quality cannabis and cannabis extracts."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
